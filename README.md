@@ -9,3 +9,6 @@ https://stackoverflow.com/questions/46794672/installing-phppgadmin-5-1-on-ubuntu
 https://dlbk.medium.com/how-to-install-apache-php-postgresql-lapp-on-ubuntu-16-04-adb00042c45d
 
 https://phoenixnap.com/kb/check-postgresql-version
+
+Enable PostgreSql driver for PDO PHP
+https://askubuntu.com/questions/927225/how-to-enable-postgresql-driver-for-pdo-for-php-7
