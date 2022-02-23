@@ -16,3 +16,6 @@ https://phoenixnap.com/kb/check-postgresql-version
 
  # Create User & Password
 https://www.youtube.com/watch?v=RySuQtMiBxQ
+
+ # Json Query Building
+https://scalegrid.io/blog/using-jsonb-in-postgresql-how-to-effectively-store-index-json-data-in-postgresql/
