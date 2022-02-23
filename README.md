@@ -13,3 +13,6 @@ https://phoenixnap.com/kb/check-postgresql-version
   # Enable PostgreSql driver for PDO PHP
   
   https://askubuntu.com/questions/927225/how-to-enable-postgresql-driver-for-pdo-for-php-7
+
+ # Create User & Password
+https://www.youtube.com/watch?v=RySuQtMiBxQ
